@@ -21,5 +21,5 @@ Call for Code is a worldwide, multi-year initiative that inspires developers to 
 
 ![screenshot_2](https://user-images.githubusercontent.com/30608533/45516151-ea6eed00-b7b2-11e8-9b49-a6ee2d5a6705.jpg)
 
-![screenshot_2](https://user-images.githubusercontent.com/30608533/45516151-ea6eed00-b7b2-11e8-9b49-a6ee2d5a6705.jpg)
+
 
