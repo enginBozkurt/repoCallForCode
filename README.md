@@ -11,8 +11,8 @@ Call for Code is a worldwide, multi-year initiative that inspires developers to 
 
 <font color="green">
   
-* Data Science implementations and models for my project
-* Dashboard designs
+* <font color="green">Data Science implementations and models for my project</font>
+* <font color="green">Dashboard designs</font>
 
 </font>
 
