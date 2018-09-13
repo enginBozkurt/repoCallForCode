@@ -9,13 +9,12 @@ The project with the greatest potential impact will be implemented with the help
 
 Call for Code is a worldwide, multi-year initiative that inspires developers to solve pressing global problems with sustainable software solutions.
 
-
-
+<font color="green">
+  
 * Data Science implementations and models for my project
-
 * Dashboard designs
 
-
+</font>
 
 ![36_1](https://user-images.githubusercontent.com/30608533/45514573-57cc4f00-b7ae-11e8-821e-22d2fd65457d.jpg)
 
