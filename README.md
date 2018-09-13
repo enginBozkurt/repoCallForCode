@@ -11,9 +11,9 @@ Call for Code is a worldwide, multi-year initiative that inspires developers to 
 
 
 
-Data Science implementations and models for my project
+* Data Science implementations and models for my project
 
-Dashboard designs
+* Dashboard designs
 
 
 
