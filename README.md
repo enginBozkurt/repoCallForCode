@@ -2,6 +2,9 @@
 
 IBM  'Call for Code' to Use Cloud, Data, AI, Blockchain for Natural Disaster Relief
 
+![ibm-call-for-code-global-challenge-2018](https://user-images.githubusercontent.com/30608533/45516332-73862400-b7b3-11e8-8168-99e0627e1a8d.jpg)
+
+
 The project with the greatest potential impact will be implemented with the help of IBM, The Linux Foundation, UN Human Rights, and American Red Cross.
 
 Call for Code is a worldwide, multi-year initiative that inspires developers to solve pressing global problems with sustainable software solutions.
